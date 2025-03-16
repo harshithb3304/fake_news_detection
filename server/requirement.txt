@@ -1,0 +1,10 @@
+flask
+flask-cors
+gunicorn
+torch
+proselint
+nltk
+pandas
+numpy
+matplotlib
+vaderSentiment
